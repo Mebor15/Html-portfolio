@@ -1,0 +1,8 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.banner p{
+    font-style: italic;/**/
+    text-align: justify;
+}

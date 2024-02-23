@@ -1,0 +1,25 @@
+#FirstH1{
+    color: aqua;
+    padding: 5%;
+    border: 20cm;
+    margin: auto;
+    text-align: center;
+}
+.hEad {
+    color:green;
+}
+body{
+    background-image:url(./IMAGES/5-\ fuko_love\ .jpg);
+    background-repeat: inherit;
+    background-size: 50%;
+}
+div[class]{
+    color: aqua;
+}
+.Allimages .Images1234 img{/* This is for target class inside div*/
+    float: left;
+    width: 169px;
+    height: fit-content;
+    
+
+}

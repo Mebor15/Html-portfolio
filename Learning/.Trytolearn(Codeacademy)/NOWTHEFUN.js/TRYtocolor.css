@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+    background-image: url(Images/ebonysexy.jpeg);
+    background-size: 850px; 
+}
+.lists{
+    color: white;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 250px;
+    height: 20%;
+    width: 20%;
+
+}
+p{
+    color: white;
+    font-size: large;
+    text-align: center;
+    font-style: italic;
+    text-transform: lowercase;
+}

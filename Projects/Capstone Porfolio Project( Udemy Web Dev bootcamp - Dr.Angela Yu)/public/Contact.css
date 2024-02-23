@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+
+body .Desc1{
+    text-align: center;
+    color: white;
+}
+
+body .NumbeR{
+    text-align: center;
+    color: white;
+    
+}
+
+body .Email{
+    text-align: center;
+    color: white;
+}
+body .DesC2{
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+}

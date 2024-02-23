@@ -1,0 +1,62 @@
+html{
+    background-color: lightblue;
+}
+#First{
+    color: white;
+    text-align: center;
+    text-decoration: dotted;
+    bottom: 15cm;
+    font-size: xx-large;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.Part1-List{
+    color:white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-transform: capitalize;
+
+}
+
+.Aboutmepage1-1 h1{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+
+.Aboutmepage1-1 h2{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+.AboutSchool1-1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.Formusic{
+    text-align: center;
+
+}
+
+.ExperiencE{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.SkillS{
+    color: white;
+    text-align: center;
+}
+.PROjects{
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,103 @@
+p {
+    color: blue;
+}/* this is first time (example)*/
+
+h1{ /* this is selectors */
+    color:crimson;
+}/* h1,p,h. and * for all */
+
+h2{
+    color: bisque;
+    font-family: 'Times New Roman';
+}
+li:hover{
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.quotes{/* this is class*/
+    color: darkcyan;
+    text-transform: initial;
+}
+.word{  
+    text-transform: uppercase;
+}
+#quotes{ /* id */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a[href*='./starwars.html']{ /*attribut*/
+    color: violet;
+    font-size: large;
+}
+a[href*='./TRY 2.html']{ /*attribut*/
+    color: brown;
+    font-size: large;
+}
+a[href*='./TRY 3 (TABLE).html']{ /*attribut*/
+    color: coral;
+    font-size: large;
+}
+a[href*='./TRY 4 (FORMS).html']{ /*attribut*/
+    color: rebeccapurple;
+    font-size: large;
+}
+
+a[href*='./TRY 5 (Semantic).html']{ /*attribut*/
+    color: aqua;
+    font-size: larger;
+}
+h3:hover{
+    color: black;
+    text-transform: uppercase;
+}
+a{ /* psudo class*/
+    color:black; 
+    font-size: medium;
+}
+.picture{
+    color: black;
+    size: 0cm;
+    image-resolution: 640px;
+}
+p1:hover{
+    font-size: larger;
+    color: sienna;
+}
+p2:hover{
+    font-size: larger;
+    color: crimson;
+}
+h2.List{
+    font-size: medium;
+    color: black;
+    text-transform: uppercase;
+}
+.listofname li{
+    color: blueviolet;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Episodes li{
+    color: aqua;
+    font-size: medium;
+    text-overflow: initial;
+}
+.Pages li{
+    color:black;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', Arial ;
+}
+h1,.Header1{
+    font-family: monospace;
+    font-size: larger;
+    text-transform: uppercase;
+}
+/* Visual Rules*/
+/*Font style*/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
