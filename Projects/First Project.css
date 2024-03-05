@@ -1,8 +1,10 @@
 html{
+    color:#9AC5F4;
     background-color: lightblue;
 }
 #First{
-    color: white;
+    color:#9AC5F4;
+    background-color: antiquewhite;
     text-align: center;
     text-decoration: dotted;
     bottom: 15cm;
@@ -13,15 +15,22 @@ html{
 
 .Part1-List{
     color:white;
+    border:  8px solid antiquewhite;
+    border-width: 10px, 10px ;
+    margin: 50px;
+    padding: 50px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     text-transform: capitalize;
     font-weight: normal;
-
 }
 
 .Aboutmepage1-1 h1{
+    border: 8px solid antiquewhite;
+    border-width: 10px, 10px;
+    margin: 50px;
+    padding: 10px;
     color: white;
     text-align: center;
     font-size: x-large;
@@ -29,6 +38,7 @@ html{
 }
 
 .Aboutmepage1-1 h2{
+    
     color: white;
     text-align: center;
     font-size: x-large;
