@@ -13,10 +13,11 @@ html{
 
 .Part1-List{
     color:white;
-    text-align: justify;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     text-transform: capitalize;
+    font-weight: normal;
 
 }
 
