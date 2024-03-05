@@ -17,8 +17,8 @@ html{
     color:white;
     border:  8px solid antiquewhite;
     border-width: 10px, 10px ;
-    margin: 50px;
-    padding: 50px;
+    margin: 20px;
+    padding: 5px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -29,12 +29,17 @@ html{
 .Aboutmepage1-1 h1{
     border: 8px solid antiquewhite;
     border-width: 10px, 10px;
-    margin: 50px;
+    margin:20px;
     padding: 10px;
     color: white;
     text-align: center;
     font-size: x-large;
     text-transform: uppercase;
+}
+.Name1-1{
+    border: 10px solid antiquewhite;
+    margin: 5%;
+    padding: 20px;
 }
 
 .Aboutmepage1-1 h2{
