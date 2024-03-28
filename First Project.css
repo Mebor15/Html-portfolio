@@ -17,14 +17,21 @@ html{
     color:white;
     border:  8px solid antiquewhite;
     border-width: 10px, 10px ;
-    margin: 20px;
+    margin: 10px;
     padding: 5px;
-    text-align: center;
+    padding-left: 3rem;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     text-transform: capitalize;
     font-weight: normal;
-    width: 50%;
+    width: 90%;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    word-spacing: 1px;
+    letter-spacing: 2px;
+    list-style: none;
+
 
 }
 
@@ -68,12 +75,26 @@ html{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+    border: 10px solid antiquewhite;
 }
 .SkillS{
     color: white;
     text-align: center;
+    border: 10px solid antiquewhite;
+
 }
+
+
 .PROjects{
-    color: white;
+    color: antiquewhite;
     text-align: center;
+    border: 10px solid antiquewhite;
+    padding: 10px;
+    padding-right: 100px;
+    margin: 0px auto;
+
+}
+.PROjects >.Prolist{
+    list-style: none;
+    
 }
